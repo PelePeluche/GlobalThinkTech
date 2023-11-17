@@ -1,4 +1,4 @@
-import { filterFieldsToArray, filterFieldsToObject } from './filters'
+import { filterFieldsToArray, filterFieldsToObject } from '../utils/filters'
 
 describe('Filters', () => {
   describe('filterFieldsToArray', () => {
