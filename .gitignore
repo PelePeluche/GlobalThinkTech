@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Build files
+dist/
+
+# Logs
+yarn-error.log
+
+# Lock files
+yarn.lock
+
+# Technical test
+*.pdf
