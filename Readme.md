@@ -27,6 +27,7 @@ La API proporciona las siguientes rutas:
 
 1. Clona el repositorio de *GIT* ejecutando alguno de los dos comandos:
    > `git clone https://github.com/PelePeluche/GlobalThinkTech.git`
+   
    > `git clone git@github.com:PelePeluche/GlobalThinkTech.git`
 
 2. Dentro del repositorio, instala las dependencias necesarias:
